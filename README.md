@@ -39,3 +39,35 @@ No unnecessary modifications were made to the original data.
 **Organization:** SWYNEX Technologies
 **Role:** Data Analyst Intern
 **Task:** Task 1 – Data Cleaning & Preparation
+
+## Task 2 – Exploratory Data Analysis (EDA)
+
+### Objective
+
+To analyze the cleaned student dataset and identify meaningful patterns using statistical analysis and data visualization.
+
+### Tools Used
+
+* Microsoft Excel
+
+### Analysis Performed
+
+* Calculated Average, Minimum and Maximum marks
+* Performed subject-wise performance analysis
+* Compared subject averages
+* Analyzed minimum and maximum marks across subjects
+* Created visualizations to present the findings
+* Identified key insights from the dataset
+
+### Visualizations
+
+1. Subject vs Average
+2. Subject-wise Minimum vs Maximum
+
+### Key Insights
+
+* Mathematics recorded the highest average marks among the analyzed subjects.
+* Biology had the lowest minimum score.
+* Most subjects recorded a maximum score of 100.
+* Geography had the highest minimum score among the subjects.
+
