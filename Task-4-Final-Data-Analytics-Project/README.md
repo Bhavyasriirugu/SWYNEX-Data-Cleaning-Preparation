@@ -85,6 +85,7 @@ Understand overall academic performance through visualizations.
 Interact with the data to explore the results easily.
 
 The Power BI dashboard provides an interactive visual representation of the analysis performed during the project.
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 ## 7. Key Insights
 The analysis of the student performance dataset provided the following insights:
