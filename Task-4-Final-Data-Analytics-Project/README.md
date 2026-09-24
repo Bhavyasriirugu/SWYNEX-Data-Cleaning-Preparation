@@ -50,6 +50,7 @@ No duplicate records were found.
 No major corrections were required.
 
 A separate cleaning log was maintained to document the data validation process.
+For the detailed data cleaning and preparation work, refer to the [Task 1 Dataset](../SWYNEX-Data-Cleaning-Preparation.xlsx.csv).
 
 ## 5. Exploratory Data Analysis
 Exploratory Data Analysis (EDA) was performed to understand the overall pattern of student performance across different subjects.
@@ -73,6 +74,8 @@ Geography	80.89
 
 The EDA results were used as the foundation for creating the interactive dashboard and identifying key insights from the dataset.
 
+For the detailed exploratory data analysis, refer to the [Task 2 EDA Workbook](../SWYNEX%202nd%20assignment.xlsx).
+
 ## 6. Interactive Dashboard
 An interactive dashboard was created using Microsoft Power BI to present the analyzed student performance data in a clear and user-friendly format.
 
@@ -86,6 +89,7 @@ Interact with the data to explore the results easily.
 
 The Power BI dashboard provides an interactive visual representation of the analysis performed during the project.
 ![Power BI Dashboard](PowerBI_Dashboard.png)
+For the complete interactive dashboard, refer to the [Task 3 Dashboard](../Task3_Dashboard).
 
 ## 7. Key Insights
 The analysis of the student performance dataset provided the following insights:
